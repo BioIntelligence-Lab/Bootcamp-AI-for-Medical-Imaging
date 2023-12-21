@@ -8,8 +8,8 @@ The goal of this bootcamp is to help solve this problem by providing an introduc
 By the end of this bootcamp, you will have demonstrated the basic skills to successfully begin working in AI research in medical imaging. The bootcamp consists of a) required readings and b) interactive Google Colab notebooks with self-grading tests. The skills and knowledge presented here are the minimum of what we expect you to demonstrate. If you are already proficient in these skills, the tests will be easily completed. If you are not proficient in these skills, this is an opportunity to self-study and practice based on online materials – note that this is a crucial skill since code and software for AI changes regularly and AI research necessarily requires continual ‘self-study’ of new code repositories.
 
 ## Coding Modules 
-1. Data Science  
-2. Image Processing
-3. Conventional machine learning
-4. Deep learning
+1. [Data Science](https://colab.research.google.com/drive/1jT6mgw9YXBsiFm8DFaMlLBOjsjLDcO6x?usp=sharing)
+2. [Image Processing](https://colab.research.google.com/drive/1varOzvr-lLOH4RNiUOLMokz6UloxYeTg?usp=sharing)
+3. [Conventional machine learning](https://colab.research.google.com/drive/1b2MGhZwX88_o4qjpz8n-CvsdtUylR4gh)
+4. [Deep learning](https://colab.research.google.com/drive/1UO3zoO3Lf86XEpX-tYAa2Il20-kDcLMN#scrollTo=B2WKuybagk-2)
 
