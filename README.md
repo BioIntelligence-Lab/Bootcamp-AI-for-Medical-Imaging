@@ -15,4 +15,4 @@ By the end of this bootcamp, you will have demonstrated the basic skills to succ
 
 
 ## Application
-(Foundation_model.md)[MedSAM2 Integradtion on 3D Slicer]
+[MedSAM2 Integradtion on 3D Slicer](Foundation_model.md)
